@@ -10,6 +10,6 @@
      change promoted by the book *Team Topologies*, is to treat the platform itself
      as an internal product and your development teams as customers.
 
-
+     
 
 
