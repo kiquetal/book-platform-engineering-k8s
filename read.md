@@ -13,4 +13,8 @@
 
 - Chapter 7: Platfrom capabilities I, Shared application concerns
 
-- Chapter 8: 
+- Chapter 8: Platform capabilities II, Enabling teams to experiment
+
+- Chapter 9: Measuring your plaftorm: Platforms are as good as the improvements they bring to the organization.
+
+  
