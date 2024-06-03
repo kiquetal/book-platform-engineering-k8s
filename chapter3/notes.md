@@ -18,4 +18,4 @@
 
    Helm Chart repository and valid credential.
 
-![./images/svc-pipeline.png](./images/svc-pipeline.png)
+![../images/svc-pipeline.png](../images/svc-pipeline.png)
