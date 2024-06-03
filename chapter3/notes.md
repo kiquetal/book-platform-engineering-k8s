@@ -7,3 +7,14 @@
  Trunk-based development. 
  Source code and configuration management
 
+
+- Service pipeline requirements
+
+   Webhooks for source code change notifications
+
+   Artifact repository available and valid credential to push the binary artifact
+
+   Container registry and valid credentials to push new container images
+
+   Helm Chart repository and valid credential.
+
