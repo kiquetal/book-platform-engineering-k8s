@@ -19,3 +19,15 @@
    Helm Chart repository and valid credential.
 
 ![../images/svc-pipeline.png](../images/svc-pipeline.png)
+
+### Characteristics of GitOps
+
+- Declarative
+
+- Versioned and immutable
+
+- Pulled automatically
+
+- Continuously reconciled
+
+
